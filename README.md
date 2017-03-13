@@ -11,7 +11,7 @@ pygplates is a python library that allows scripting access to the plate tectonic
 Some basis knowledge of both python and GPlates is beneficial. Useful resources for background are:
 
 ### For Python
-Two exellent resources for scientists using python for data science can be found here:
+Two excellent resources for scientists using python for data science can be found here:
 
 https://github.com/jakevdp/WhirlwindTourOfPython
 
