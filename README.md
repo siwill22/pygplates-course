@@ -6,6 +6,8 @@ pygplates is a python library that allows scripting access to the plate tectonic
 - data analysis in python (array manipulation, writing loops and functions, plotting, accessing data from the web)
 - analysing plate tectonic reconstructions themselves, and using plate reconstructions to analyse other 
 
+#
+## Background Material
 Some basis knowledge of both python and GPlates is beneficial. Useful resources for background are:
 
 ### For Python
@@ -30,8 +32,8 @@ https://github.com/GPlates/pygplates-tutorials
 Many of the code snippets in these tutorials will be directly useful in the exercises for this course
 
   
-
-## pygplates quick start using kitematic
+#
+## pygplates quick start
 
 To use this course material, you need to have access to a computer with a number of python modules installed, including pygplates but also a number of plotting and numerical computation modules, as well as the modules that enable jupyter notebooks to run. The methods to get set up are:
 
