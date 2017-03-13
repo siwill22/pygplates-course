@@ -13,14 +13,6 @@
 
 *.png
 
-tmp/tmp.dbf
-
-tmp/tmp.prj
-
-tmp/tmp.shp
-
-tmp/tmp.shx
-
 plate_polygons.dbf
 
 plate_polygons.prj
