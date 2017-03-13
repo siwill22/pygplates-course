@@ -12,3 +12,11 @@
 .ipynb_checkpoints/Exercise-06-Plate-Size-Distributions-checkpoint.ipynb
 
 *.png
+
+tmp/tmp.dbf
+
+tmp/tmp.prj
+
+tmp/tmp.shp
+
+tmp/tmp.shx
