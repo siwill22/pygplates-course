@@ -25,7 +25,11 @@ https://sites.google.com/site/gplatestutorials/
 [Note that it is recommended to have access to GPlates at the same time as going through these exercises - it can be much easier to figure out what a pygplates script is doing if you can see how the input data files behave in GPlates] 
 
 ### For pygplates
-pygplates tutorials are available here:
+The detailed documentation for pygplates can be accessed here:
+
+https://www.gplates.org/docs/pygplates/
+
+While a set of practical pygplates tutorials are available here:
 
 https://github.com/GPlates/pygplates-tutorials
 
